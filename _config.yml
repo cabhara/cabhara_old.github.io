@@ -7,9 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization lea
 url: "https://cabhara.github.io" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 2973388149
-data-ad-client: ca-pub-9204963049240271
-google_ad_client: ca-pub-9204963049240271
+data-ad-slot: 7297319882
+data-ad-client: ca-pub-7207163091131273
+google_ad_client: ca-pub-7207163091131273
 
 google_analytics: "UA-33712208-1"
 #addthis_id: ra-5644da281510c62f
@@ -18,8 +18,8 @@ google_analytics: "UA-33712208-1"
 social:
   - title: twitter
     url: https://twitter.com/cabhara
-  - title: facebook
-    url: https://facebook.com/cabhara
+  - title: linkedin
+    url: https://linkedin.com/cabhara
   #- title: google-plus
   #  url: https://plus.google.com/+AntoniotrentoIt
   #- title: github
