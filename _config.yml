@@ -1,7 +1,7 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
-email:
-description: A jekyll template for landing pages, portfolio and blogging
+title: Christina Bharara Mobile Applications
+email: applecabhara@gmail.com
+description: Casual Games and Mobile Applications for Language Learning 
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://cabhara.github.io" # the base hostname & protocol for your site
@@ -11,9 +11,8 @@ data-ad-slot: 2973388149
 data-ad-client: ca-pub-9204963049240271
 google_ad_client: ca-pub-9204963049240271
 
-google_analytics: "UA-86331249-1"
-addthis_id: ra-5644da281510c62f
-disqus_account: jeky-new-age
+google_analytics: "UA-33712208-1"
+#addthis_id: ra-5644da281510c62f
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
@@ -21,8 +20,8 @@ social:
     url: https://twitter.com/cabhara
   - title: facebook
     url: https://facebook.com/cabhara
-  - title: google-plus
-    url: https://plus.google.com/+AntoniotrentoIt
+  #- title: google-plus
+  #  url: https://plus.google.com/+AntoniotrentoIt
   #- title: github
   #  url: http://github.com/jekyll
 
