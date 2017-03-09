@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
-subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
-date:       2016-06-10 12:00:00
-author:     "Antonio Trento"
+title:      "Language apps need to retain users"
+subtitle:   "integrate gamification elements into language apps to keep users coming back."
+date:       2017-03-08 12:00:00
+author:     "Christina Bharara"
 header-img: "img/post-bg-01.jpg"
 categories: jekyll
 ---
